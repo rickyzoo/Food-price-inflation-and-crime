@@ -1,4 +1,4 @@
-## Food_price_inflation_and_crime
+## Food-price-inflation-and-crime
 
 This data analysis project was my final project for **ECON416 - Economic Analysis with Python** at SUNY Binghamton. The analysis and written comments are all in the Jupyter Notebook file in the repository. All other files host the datasets used. 
 
